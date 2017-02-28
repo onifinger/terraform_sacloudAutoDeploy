@@ -27,12 +27,14 @@ $ git clone https://github.com/onifinger/terraform_sacloudAutoDeploy.git
 Sorry, you have a bit of work, though.
 
 ### 5. Usage
-1. Run commands below.  
+1. Run commands below.
+
   ```
   $ cd /usr/local/bin
   $ sudo unzip terraform_binary.zip
   $ sudo unzip terraform-provider-sakuracloud_xxx_xxx.zip
   ```
+
 1. Test your terraform env.
   ```
   $ terraform --help
