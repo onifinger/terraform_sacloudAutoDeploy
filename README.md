@@ -28,24 +28,24 @@ Sorry, you have a bit of work, though.
 
 ### 5. Usage
 1. Run commands below.
-```
-$ cd /usr/local/bin
-$ sudo unzip terraform_binary.zip
-$ sudo unzip terraform-provider-sakuracloud_xxx_xxx.zip
-```
+  ```
+  $ cd /usr/local/bin
+  $ sudo unzip terraform_binary.zip
+  $ sudo unzip terraform-provider-sakuracloud_xxx_xxx.zip
+  ```
 1. Test your terraform env.
-```
-$ terraform --help
-```
+  ```
+  $ terraform --help
+  ```
 
 1. edit prof.tf according to your env.
 1. Run commands below.
-```
-$ terraform plan
-$ terraform apply
-```
+  ```
+  $ terraform plan
+  $ terraform apply
+  ```
 
-if you wanna clear env on Sakura Cloud, execute below.
-```
-$ terraform destroy
-```
+  if you wanna clear env on Sakura Cloud, execute below.
+  ```
+  $ terraform destroy
+  ```
