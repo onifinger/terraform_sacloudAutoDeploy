@@ -3,11 +3,11 @@ deploy automation example for sakura cloud by terraform
 
 ### 1. Overview
 For Easy-Deploy to Sakura Cloud.
-#WIP
+---#WIP
 
 ### 2. Description
 Using terraform for Easy-Deploy
-#WIP
+---#WIP
 
 ### 3. Requirement
 + terraform platform
