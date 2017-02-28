@@ -40,7 +40,7 @@ Sorry, you have a bit of work, though.
   $ terraform --help
   ```
 
-1. edit prof.tf according to your env.
+1. edit prov.tf according to your env.
 1. Run commands below.
   ```
   $ terraform plan
